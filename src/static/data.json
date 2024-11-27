@@ -1,0 +1,232 @@
+[
+  {
+    "id": 1,
+    "question": "Qaysi mahsulot dunyo bo'ylab eng ko'p yetishtiriladi?",
+    "options": [
+      {
+        "value": "a",
+        "answer": "Makkajo'xori"
+      },
+      {
+        "value": "b",
+        "answer": "Bug'doy"
+      },
+      {
+        "value": "c",
+        "answer": "Kungaboqar"
+      },
+      {
+        "value": "d",
+        "answer": "Kartoshka"
+      }
+    ],
+    "true_answer": "b"
+  },
+  {
+    "id": 2,
+    "question": "Inson tanasidagi eng katta organ qaysi?",
+    "options": [
+      {
+        "value": "a",
+        "answer": "Teri"
+      },
+      {
+        "value": "b",
+        "answer": "Jigar"
+      },
+      {
+        "value": "c",
+        "answer": "Miyya"
+      },
+      {
+        "value": "d",
+        "answer": "Oshqozon"
+      }
+    ],
+    "true_answer": "a"
+  },
+  {
+    "id": 3,
+    "question": "Dunyodagi eng baland tog'ni toping?",
+    "options": [
+      {
+        "value": "a",
+        "answer": "Akonkagua"
+      },
+      {
+        "value": "b",
+        "answer": "Mak-Kinli"
+      },
+      {
+        "value": "c",
+        "answer": "Elbrus"
+      },
+      {
+        "value": "d",
+        "answer": "Kilimanjaro"
+      }
+    ],
+    "true_answer": "d"
+  },
+  {
+    "id": 4,
+    "question": "Eng uzun daryo qaysi?",
+    "options": [
+      {
+        "value": "a",
+        "answer": "Amazon"
+      },
+      {
+        "value": "b",
+        "answer": "Nil"
+      },
+      {
+        "value": "c",
+        "answer": "Mississippi"
+      },
+      {
+        "value": "d",
+        "answer": "Yangtze"
+      }
+    ],
+    "true_answer": "b"
+  },
+  {
+    "id": 5,
+    "question": "Qaysi yulduz samoviy osmondagi eng yorqin yulduzdir?",
+    "options": [
+      {
+        "value": "a",
+        "answer": "Alfa Centauri"
+      },
+      {
+        "value": "b",
+        "answer": "Vega"
+      },
+      {
+        "value": "c",
+        "answer": "Sirius"
+      },
+      {
+        "value": "d",
+        "answer": "Betelgeuse"
+      }
+    ],
+    "true_answer": "c"
+  },
+  {
+    "id": 6,
+    "question": "Qaysi sportda olimpiada o'yinlarida musobaqalar o'tkazilmaydi?",
+    "options": [
+      {
+        "value": "a",
+        "answer": "Kriket"
+      },
+      {
+        "value": "b",
+        "answer": "Futbol"
+      },
+      {
+        "value": "c",
+        "answer": "Gimnastika"
+      },
+      {
+        "value": "d",
+        "answer": "Tennis"
+      }
+    ],
+    "true_answer": "a"
+  },
+  {
+    "id": 7,
+    "question": "Qaysi gulning nomi o'zbek tilida 'ko'z yosh' ma'nosini anglatadi?",
+    "options": [
+      {
+        "value": "a",
+        "answer": "Lavanda"
+      },
+      {
+        "value": "b",
+        "answer": "Aloe vera"
+      },
+      {
+        "value": "c",
+        "answer": "Papatya"
+      },
+      {
+        "value": "d",
+        "answer": "Orxideya"
+      }
+    ],
+    "true_answer": "b"
+  },
+  {
+    "id": 8,
+    "question": "Odam tanasidagi eng kichik suyak qaysi?",
+    "options": [
+      {
+        "value": "a",
+        "answer": "Qovurg'alar"
+      },
+      {
+        "value": "b",
+        "answer": "Quloq suyaklari"
+      },
+      {
+        "value": "c",
+        "answer": "Barmoq suyaklari"
+      },
+      {
+        "value": "d",
+        "answer": "Panja suyaklari"
+      }
+    ],
+    "true_answer": "b"
+  },
+  {
+    "id": 9,
+    "question": "Insonning qancha juft xromosomalari bor?",
+    "options": [
+      {
+        "value": "a",
+        "answer": "21 juft"
+      },
+      {
+        "value": "b",
+        "answer": "22 juft"
+      },
+      {
+        "value": "c",
+        "answer": "23 juft"
+      },
+      {
+        "value": "d",
+        "answer": "24 juft"
+      }
+    ],
+    "true_answer": "c"
+  },
+  {
+    "id": 10,
+    "question": "Inson tanasida qancha juft qovurg'a mavjud?",
+    "options": [
+      {
+        "value": "a",
+        "answer": "10 juft"
+      },
+      {
+        "value": "b",
+        "answer": "11 juft"
+      },
+      {
+        "value": "c",
+        "answer": "12 juft"
+      },
+      {
+        "value": "d",
+        "answer": "13 juft"
+      }
+    ],
+    "true_answer": "c"
+  }
+]
